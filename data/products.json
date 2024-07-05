@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Product Test 001",
+    "description": "Description Test 001",
+    "price": 100
+  },
+  {
+    "name": "Product Test 002",
+    "description": "Description Test 002",
+    "price": 200
+  },
+  {
+    "name": "Product Test 003",
+    "description": "Description Test 003",
+    "price": 300
+  },
+  {
+    "name": "Product Test 004",
+    "description": "Description Test 004",
+    "price": 400,
+    "id": "eec59efc-e590-4c18-a9ba-9dd2c9a4659b"
+  }
+]
